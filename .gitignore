@@ -1,0 +1,4 @@
+/volumes/var/lib/mysql/*
+docker-compose.yml
+!.gitignore
+!.gitkeep
